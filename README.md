@@ -1,3 +1,3 @@
 # auto_system
 AutoSystem Is my dream application.
-I am create this application for my devlopment progress and busniess purpose.
+I am creating this application for my development progress and business purpose.
